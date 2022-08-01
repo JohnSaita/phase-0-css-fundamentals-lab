@@ -3,3 +3,52 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+nav{
+  text-align: center;
+}
+img{
+  vertical-align: center;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+featured-property{
+
+  padding-right: 20%;
+  text-align: center;
+}
+figcaption{
+  text-align: center;
+}
+.details{
+  background-color: red;
+
+
+
+}
+div{
+  display: inline-block;
+  font-size: 10px;
+  color: black;
+  margin-left: 8%;
+  margin-right: 8%;
+  vertical-align: top;
+  margin-top: 10px;
+
+
+
+}
+p{
+  padding-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
+h3{
+  text-align: center;
+  margin-top: 0;
+}
